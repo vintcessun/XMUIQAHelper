@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 失败时导出的本地诊断文件
+debug_diag.txt
+debug_screenshot.png
